@@ -1,0 +1,15 @@
+{
+  "name": "hello-mongodb",
+  "version": "1.0.0",
+  "description": "Introduction to MongoDB",
+  "main": "connect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tsira Mamaladze",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.9.0"
+  }
+}
